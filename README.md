@@ -188,7 +188,7 @@ O material particulado fino (< 2,5 µm) é particularmente perigoso por atingir 
 
 A aplicação da Análise de Componentes Principais Absoluta (ACPA) permitiu determinar a responsabilidade de cada fonte na massa do material particulado. Os resultados mostraram estabilidade nas fontes entre as estações, indicando que a estrutura de emissão é constante ao longo do ano.  
 
-- **Fração Fina (MPF - < 2,5 µm):** Esta fração é a mais crítica para a saúde e é composta majoritariamente por carbono orgânico e black carbon.
+- **Fração Fina (MPF - < 2,5 µm):** Esta fração é a mais crítica para a saúde e é composta majoritariamente por carbono orgânico e black carbon.  
 **Tráfego Veicular:** 24% a 28% da massa.  
 **Ressuspensão de Solo:** 25% a 30%.  
 **Sulfatos (formação secundária):** 17% a 23%.  
