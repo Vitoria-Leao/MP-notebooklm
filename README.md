@@ -18,7 +18,7 @@ Todos podem ser acessados pelo google acadêmico de forma aberta (sem necessidad
 ## Engenharia de Prompts e "Cicatrizes":
 As perguntas utilizadas por mim focaram em comparações entre os estudos, procurando descrever a pergunta de forma clara e simples para obter a melhor resposta. 
 
-- Como as concentrações de MP2,5 estão sendo alteradas a longo prazo? Ao que a IA respondeu corretamente:
+### - Como as concentrações de MP2,5 estão sendo alteradas a longo prazo?
   
 As alterações nas concentrações de material particulado fino (MP2,5) em São Paulo ao longo do tempo apresentam duas fases distintas: uma queda significativa nas décadas anteriores, seguida por uma tendência à estabilidade nos últimos anos. Aqui estão os detalhes dessa evolução de longo prazo conforme os documentos:  
 
@@ -26,7 +26,7 @@ As alterações nas concentrações de material particulado fino (MP2,5) em São
 
 - **Redução de Poluentes Primários:** Houve um decréscimo acentuado nas concentrações de poluentes primários (como MP10, CO e SO2) desde a década de 1980. O MP10, por exemplo, caiu de médias anuais em torno de 54 μg/m3 no ano 2000 para cerca de 29 μg/m3 em 2016.  
 - **Controle de Emissões:** Essa melhora histórica foi resultado de programas como o PROCONVE e o PROMOT, que impuseram limites mais rígidos de emissão para veículos novos, além da melhoria na qualidade dos combustíveis (redução do teor de enxofre) e o controle de fontes industriais.
-- 
+ 
 **2. Tendência Recente: Estabilização (2010 a 2023)**
   
 Estabilidade das Médias: Diferente da queda drástica observada no passado, os níveis de material particulado na Região Metropolitana de São Paulo (RMSP) tendem agora à estabilidade. Entre 2017 e 2023, as médias anuais de MP2,5 permaneceram relativamente constantes, variando entre 14 e 17 μg/m3.  
@@ -39,7 +39,7 @@ De Industrial para Veicular: Ao longo das décadas, o perfil da poluição em S�
 - **Formação Secundária:** Atualmente, uma parcela crítica do MP2,5 de longo prazo é formada na própria atmosfera (aerossol secundário) a partir de gases como óxidos de nitrogênio e compostos orgânicos voláteis emitidos por veículos.  
 Em resumo, embora as políticas de controle tenham evitado um colapso da qualidade do ar diante do crescimento da cidade, o cenário atual é de estagnação dos níveis de MP2,5, que ainda permanecem acima dos padrões ideais recomendados pela Organização Mundial da Saúde (OMS).  
 
-- Como as fontes de MP2,5 mudam na cidade de São Paulo e no interior? Também respondido corretamente:
+### - Como as fontes de MP2,5 mudam na cidade de São Paulo e no interior?
 
 As fontes de material particulado fino (MP2,5) no Estado de São Paulo apresentam variações significativas entre a capital e o interior, refletindo as diferentes atividades econômicas e densidades urbanas de cada região.  
 A principal mudança reside no fato de que, enquanto na Região Metropolitana de São Paulo (RMSP) a poluição é dominada quase exclusivamente por emissões veiculares, no interior o perfil é mais diversificado, com maior peso de atividades industriais específicas e queima agrícola.  
@@ -64,7 +64,7 @@ Os documentos ressaltam uma diferença técnica importante no comportamento das 
 - **Capital:** As poeiras são majoritariamente finas (MP2,5). A relação MP2,5/MP10 na RMSP é de cerca de 0,6, indicando que 60% das partículas inaláveis são da fração mais fina e perigosa.  
 - **Interior:** As partículas tendem a ser mais grossas. Em locais como Santa Gertrudes e Piracicaba, a relação cai para 0,4 a 0,5, o que reflete a maior influência de processos mecânicos (indústria cerâmica e mineração) em comparação com os processos de combustão da capital.  
 
-- Quais as medidas de controle específicas que a CETESB aplica para as indústrias do interior versus a frota veicular da capital? 
+### - Quais as medidas de controle específicas que a CETESB aplica para as indústrias do interior versus a frota veicular da capital? 
 
 A CETESB utiliza estratégias distintas para o controle de emissões, baseadas no Plano de Controle de Emissões Atmosféricas, que se divide em duas frentes principais: o PREFE (Plano de Redução de Emissão de Fontes Estacionárias) para indústrias e o PCPV (Plano de Controle de Poluição Veicular) para a frota móvel.  
 As medidas específicas variam conforme a região e a fonte poluidora:  
@@ -89,7 +89,7 @@ Fiscalização de Veículos em Uso: Programas de fiscalização de fumaça preta
 - **Controle de Emissões Evaporativas:** Novas exigências para limitar a emissão de gases (precursores de ozônio) durante o reabastecimento nos postos de combustível.  
 Diferente do interior, onde as partículas são mais grossas e de origem mecânica, na capital os poluentes são majoritariamente particulados finos (MP2,5) e gases provenientes da combustão, o que exige um foco maior em tecnologias de motor e qualidade de combustível.  
 
-- Quais os traçadores de fontes do MP2,5 utilizados nos estudos? Neste caso, a resposta foi uma junção do que todos os estudos diziam, o que também é interessante, mas eu queria uma comparação entre estudos. Então, alterei a questão para: Quais as diferenças entre os traçadores usados para cada estudo? O que gerou a resposta esperada.
+### - Quais os traçadores de fontes do MP2,5 utilizados nos estudos? Neste caso, a resposta foi uma junção do que todos os estudos diziam, o que também é interessante, mas eu queria uma comparação entre estudos. Então, alterei a questão para: Quais as diferenças entre os traçadores usados para cada estudo? O que gerou a resposta esperada.
 
 Nos estudos realizados sobre a atmosfera de São Paulo, a identificação das fontes de material particulado fino (MP2,5) é feita por meio de modelos receptores que utilizam elementos químicos e compostos específicos como traçadores (ou assinaturas) de cada atividade poluidora.  
 Os principais traçadores utilizados para cada fonte são:  
