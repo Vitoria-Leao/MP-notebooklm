@@ -176,8 +176,10 @@ A atmosfera de São Paulo é um sistema complexo onde gases e partículas excede
 - **Crescimento Desenfreado:** O desenvolvimento industrial e comercial resultou em um colapso do sistema de transporte, gerando uma das maiores frotas de veículos por habitante do mundo (cerca de 4,8 milhões de veículos em 1997).  
 - **Barreiras Geográficas:** A RMSP está localizada em um planalto cercado por serras (Serra do Mar, da Cantareira, entre outras), que funcionam como barreiras físicas à dispersão de poluentes.  
 - **Fatores Climáticos:** O inverno é caracterizado por baixa pluviosidade e inversões térmicas frequentes em baixas altitudes, o que confina os poluentes próximos à superfície.  
-Impactos na Saúde Pública  
+Impactos na Saúde Pública
+
 Estudos epidemiológicos citados na fonte indicam uma correlação direta entre a poluição e a morbidade/mortalidade:  
+
 - Aumento de 23% nas internações de crianças (menores de 13 anos) em dias com altas concentrações de particulado.  
 - Aumento de 13% na mortalidade de idosos quando as concentrações de PM10 atingem níveis elevados (120 µg/m³).  
 O material particulado fino (< 2,5 µm) é particularmente perigoso por atingir os alvéolos pulmonares, onde não há mecanismos eficientes de expulsão.  
