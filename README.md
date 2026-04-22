@@ -1,8 +1,8 @@
-# MP25-notebooklm
-Este repostório vai armazenar importantes conteúdos sobre Material Particulado Fino (MP2,5) sintetizados com auxílio do NotebookLM.
+# MP-notebooklm
+Este repostório vai armazenar importantes conteúdos sobre Material Particulado (MP) sintetizados com auxílio do NotebookLM.
 
 ## Contexto e Objetivos:
-O MP2,5 é um composto importante na atmosfera e possui muita informação a seu respeito na internet. Meu caderno temático sintetizará e comparará essas informações em diferentes fontes, facilitando o estudo sobre o tema.
+O MP é um composto importante na atmosfera e possui muita informação a seu respeito na internet. Meu caderno temático sintetizará e comparará essas informações em diferentes fontes, facilitando o estudo sobre o tema.
 
 ## Curadoria de Fontes:
 Foquei em artigos científicos, dissertações e relatórios, para que as informações sejam confiáveis. Os PDFs usados foram: 
@@ -124,3 +124,76 @@ Sódio (Na) e Cloro (Cl): Identificados principalmente no particulado grosso, ma
 Resumo das Técnicas Analíticas:
 Andrade (1993) e Castanho (1999): Utilizaram predominantemente PIXE (Emissão de Raios-X Induzida por Partículas), que permitia identificar elementos de número atômico maior que o Sódio.
 Marien (2018): Utilizou EDXRF (Fluorescência de Raios-X por Energia Dispersiva), com limites de detecção que permitiram uma análise mais detalhada de elementos como P e As.
+
+
+## Miniguia de Estudo
+### Resumo:
+1. Contexto e Problemática da Poluição Urbana
+A atmosfera de São Paulo é um sistema complexo onde gases e partículas excedem as concentrações naturais devido a emissões de fontes móveis e fixas. A situação é agravada por fatores estruturais e ambientais:
+- Crescimento Desenfreado: O desenvolvimento industrial e comercial resultou em um colapso do sistema de transporte, gerando uma das maiores frotas de veículos por habitante do mundo (cerca de 4,8 milhões de veículos em 1997).
+- Barreiras Geográficas: A RMSP está localizada em um planalto cercado por serras (Serra do Mar, da Cantareira, entre outras), que funcionam como barreiras físicas à dispersão de poluentes.
+- Fatores Climáticos: O inverno é caracterizado por baixa pluviosidade e inversões térmicas frequentes em baixas altitudes, o que confina os poluentes próximos à superfície.
+Impactos na Saúde Pública
+Estudos epidemiológicos citados na fonte indicam uma correlação direta entre a poluição e a morbidade/mortalidade:
+- Aumento de 23% nas internações de crianças (menores de 13 anos) em dias com altas concentrações de particulado.
+- Aumento de 13% na mortalidade de idosos quando as concentrações de PM10 atingem níveis elevados (120 µg/m³).
+O material particulado fino (< 2,5 µm) é particularmente perigoso por atingir os alvéolos pulmonares, onde não há mecanismos eficientes de expulsão.
+
+2. Identificação e Quantificação de Fontes
+A aplicação da Análise de Componentes Principais Absoluta (ACPA) permitiu determinar a responsabilidade de cada fonte na massa do material particulado. Os resultados mostraram estabilidade nas fontes entre as estações, indicando que a estrutura de emissão é constante ao longo do ano.
+- Fração Fina (MPF - < 2,5 µm): Esta fração é a mais crítica para a saúde e é composta majoritariamente por carbono orgânico e black carbon.
+Fonte de Emissão           Contribuição no Inverno    Contribuição no Verão
+Tráfego Veicular                    28%                        24%
+Ressuspensão de Solo                25%                        30%
+Sulfatos (formação secundária)      23%                        17%
+Queima de Óleo Combustível          18%                        21%
+Indústria                           5%                         6%
+
+- Fração Grossa (MPG - > 2,5 µm): A fração grossa é dominada por processos mecânicos:
+Solo Ressuspendido: 75% a 78% da massa. Esta fonte é alimentada indiretamente pelo tráfego de veículos em vias pavimentadas e não pavimentadas.
+Industrial: 14% a 16%.
+Emissão Marinha: 6% a 11% (transporte de massas de ar do litoral).
+
+3. Dinâmica dos Poluentes e Ciclo Diurno
+A variabilidade das concentrações de poluentes é modulada pela interação entre as taxas de emissão e a dinâmica da Camada Limite Atmosférica (CLA).
+- Comportamento Típico: Poluentes primários como CO, NOx, black carbon e PM10 apresentam picos de concentração sincronizados com os horários de maior tráfego (manhã e final da tarde).
+- Modulação Meteorológica: Durante a noite e início da manhã, a CLA é mais baixa, confinando os poluentes. Com o aquecimento solar, a CLA se eleva, aumentando o volume de dispersão e reduzindo as concentrações, mesmo que a emissão continue.
+- Ozônio (O3): Diferente dos outros, o ozônio é um poluente secundário com picos no período da tarde (máxima radiação solar). Sua sazonalidade mostra máximos no verão e primavera, enquanto o PM10 e o CO atingem picos críticos no inverno.
+
+4. Evolução Histórica e Padrões de Qualidade
+Embora algumas ações de controle tenham tido sucesso, São Paulo ainda enfrenta desafios significativos para atingir os padrões de qualidade do ar.
+- Redução de SO2: Houve um declínio acentuado nas décadas de 80 e 90 devido à exigência de óleos combustíveis com baixo teor de enxofre nas indústrias.
+- Estabilidade de NO2 e PM10: Estes poluentes permanecem em patamares estáveis, frequentemente excedendo o padrão primário de qualidade do ar (50 µg/m³ para PM10). Em 1997, a média anual de PM10 foi 20% superior ao limite permitido.
+- Operação Rodízio: Implementada a partir de 1996, visava reduzir a circulação de veículos e as emissões de CO, mas os dados de 1997 mostraram que as concentrações de particulado continuaram elevadas apesar da medida.
+
+5. Conclusões
+O estudo confirma que é possível realizar a identificação quantitativa das fontes de aerossol em áreas urbanas complexas utilizando modelos receptores. As principais conclusões são:
+- Centralidade do Tráfego: O tráfego veicular é o principal poluidor, tanto pela emissão direta (fração fina e gases) quanto pela ressuspensão de poeira (fração grossa).
+- Influência da Frota Antiga: Veículos com mais de 10 anos ou em más condições de conservação emitem de 50 a 100 vezes mais poluentes do que veículos modernos.
+- Complexidade do Carbono: O carbono orgânico representa uma fração significativa (35-44%) da massa fina, e sua composição molecular e efeitos à saúde ainda requerem estudos mais aprofundados.
+- Necessidade de Controle: A identificação dos perfis elementares das fontes é ferramenta essencial para o planejamento de políticas públicas de prevenção e controle da poluição.
+
+### Glossário:
+- Aerossol: Sistema coloidal de partículas sólidas ou líquidas suspensas em um meio gasoso (ar).
+- Aetalômetro: Equipamento que mede a concentração de black carbon em tempo real por meio da atenuação óptica de um feixe de luz.
+- Black Carbon: Também chamado de negro de fumo; fração do aerossol carbonáceo que absorve radiação solar e indica queima de diesel.
+- Camada Limite Atmosférica: Região da atmosfera inferior diretamente influenciada pela superfície terrestre, que modula a dispersão vertical de poluentes.
+- Deposição Seca/Úmida: Processos de remoção de partículas da atmosfera; a seca ocorre por gravidade e a úmida por meio da precipitação (chuva).
+- Diâmetro Aerodinâmico: Diâmetro equivalente de uma esfera de densidade unitária que possui a mesma velocidade de sedimentação que a partícula em questão.
+- DOAS: Differential Optical Absorption Spectroscopy; técnica que mede a concentração de gases pela absorção de luz em diferentes comprimentos de onda.
+- Inversão Térmica: Condição estável da atmosfera onde a temperatura aumenta com a altitude, aprisionando poluentes próximos ao solo.
+- Modelos Receptores: Modelos estatísticos que utilizam a composição química medida em um local para identificar e quantificar as fontes emissoras.
+- MP10 (Particulado Inalável): Partículas com diâmetro aerodinâmico inferior a 10 micrômetros, capazes de penetrar no sistema respiratório humano.
+- Poluentes Secundários: Poluentes que não são emitidos diretamente, mas formados na atmosfera através de reações químicas (ex: Ozônio e Sulfatos).
+- Ressuspensão de Solo: Processo pelo qual partículas de poeira depositadas no solo voltam a suspender-se no ar devido ao vento ou tráfego.
+- TEOM: Tapered Element Oscillating Microbalance; monitor que mede a massa de material particulado em tempo real pela variação da frequência de vibração de um elemento.
+  
+### Prompts reutilizáveis:
+- Por que o período de inverno é considerado mais crítico para a poluição em São Paulo?
+- Quais foram as fontes principais identificadas para o aerossol fino em São Paulo?
+- O que é o "Black Carbon" e qual sua principal fonte em áreas urbanas?
+- Quais são os principais efeitos da poluição por material particulado na saúde humana?
+- Como o tráfego de veículos contribui indiretamente para a poluição atmosférica?
+- Quais os principais poluentes em São Paulo, de acordo com os estudos?
+- Como as concentrações de poluentes estão sendo alteradas a longo prazo?
+- Como as fontes de _poluente_ mudam na cidade de São Paulo e no interior?
