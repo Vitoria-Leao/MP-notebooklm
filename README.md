@@ -91,6 +91,7 @@ Diferente do interior, onde as partículas são mais grossas e de origem mecâni
 
 ### - Quais os traçadores de fontes do MP2,5 utilizados nos estudos? Neste caso, a resposta foi uma junção do que todos os estudos diziam, o que também é interessante, mas eu queria uma comparação entre estudos. Então, alterei a questão para: Quais as diferenças entre os traçadores usados para cada estudo? O que gerou a resposta esperada.
 
+#### R1
 Nos estudos realizados sobre a atmosfera de São Paulo, a identificação das fontes de material particulado fino (MP2,5) é feita por meio de modelos receptores que utilizam elementos químicos e compostos específicos como traçadores (ou assinaturas) de cada atividade poluidora.  
 Os principais traçadores utilizados para cada fonte são:  
 
@@ -133,7 +134,8 @@ Identificado principalmente durante a entrada da brisa marítima na cidade.
 
 Formados na atmosfera a partir de reações gasosas.  
 **Traçador principal:** Enxofre (S), indicando a presença de sulfatos formados a partir do SO2.  
-<br>
+
+#### R2
 As diferenças entre os traçadores utilizados nos estudos refletem a evolução das técnicas analíticas, a mudança no perfil das emissões de São Paulo e o aprimoramento na identificação de fontes específicas. Enquanto estudos pioneiros focavam em elementos geológicos e metais pesados, pesquisas recentes incorporaram compostos carbonáceos e assinaturas químicas mais refinadas para separar fontes veiculares e de queima de biomassa.  
 As principais diferenças por estudo e fonte são detalhadas abaixo:  
 
