@@ -20,7 +20,7 @@ As perguntas utilizadas por mim focaram em comparações entre os estudos, procu
 
 - Como as concentrações de MP2,5 estão sendo alteradas a longo prazo? Ao que a IA respondeu corretamente:
   
-As alterações nas concentrações de material particulado fino (MP2,5) em São Paulo ao longo do tempo apresentam duas fases distintas: uma queda significativa nas décadas anteriores, seguida por uma tendência à estabilidade nos últimos anos. Aqui estão os detalhes dessa evolução de longo prazo conforme os documentos:
+As alterações nas concentrações de material particulado fino (MP2,5) em São Paulo ao longo do tempo apresentam duas fases distintas: uma queda significativa nas décadas anteriores, seguida por uma tendência à estabilidade nos últimos anos. Aqui estão os detalhes dessa evolução de longo prazo conforme os documentos:  
 **1. Histórico de Redução (Décadas de 80, 90 e 2000)**  
 - **Redução de Poluentes Primários:** Houve um decréscimo acentuado nas concentrações de poluentes primários (como MP10, CO e SO2) desde a década de 1980. O MP10, por exemplo, caiu de médias anuais em torno de 54 μg/m3 no ano 2000 para cerca de 29 μg/m3 em 2016.  
 - **Controle de Emissões:** Essa melhora histórica foi resultado de programas como o PROCONVE e o PROMOT, que impuseram limites mais rígidos de emissão para veículos novos, além da melhoria na qualidade dos combustíveis (redução do teor de enxofre) e o controle de fontes industriais.  
